@@ -120,7 +120,8 @@ https://github.com/user-attachments/assets/2849c85b-2c1a-474d-841e-a19a680ba583
 
 ### 3. Lego puzzle
 
-* Адаптировал игру под вертикальный формат, для этого пришлось разобраться в style.css. Я даже выпустил статью на DTF, чтобы другие разработчики не мучались. https://dtf.ru/indie/3131164-vertikalnaya-orientaciya-igry-unity-yandeks-igry
+* Адаптировал игру под вертикальный формат. Самостоятельно разобрался в верстке и стилях (style.css), решив проблему корректного отображения игры в браузере.
+* Написал статью по этому поводу, что бы помочь другим разработчикам. https://dtf.ru/indie/3131164-vertikalnaya-orientaciya-igry-unity-yandeks-igry
 * Интегрировал SDK яндекса, система сохранений, таблица лидеров, межстраничная реклама и реклама за вознаграждение
 * Оптимизировал игру под WebGL
 
@@ -132,6 +133,23 @@ https://github.com/user-attachments/assets/2849c85b-2c1a-474d-841e-a19a680ba583
   <p align="center">  
     
 https://github.com/user-attachments/assets/8bfa339a-9b32-4c3b-b473-ca6b5f8b68e0
+
+  </p>
+</details>
+
+### 4. Block destroy
+
+* Интегрировал SDK яндекса, система сохранений, таблица лидеров, межстраничная реклама и реклама за вознаграждение
+* Оптимизировал игру под WebGL
+
+[Репозиторий игры](https://github.com/MI1CTEP/block_destroy)
+
+<details>
+  <summary>Видео геймплея</summary>
+  <br />
+  <p align="center">  
+    
+https://github.com/user-attachments/assets/1fd79ef8-4ea8-4f9c-bca6-9267d1287745
 
   </p>
 </details>
