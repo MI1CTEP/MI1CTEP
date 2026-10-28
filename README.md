@@ -21,3 +21,9 @@
 ## Работа в компании BimiBoo(Kimikosoft) (02.2022 - 09.2024)
 
 ### Машинки - игры для детей 1-5
+
+<p align="left">
+  <a href="https://play.google.com/store/apps/details?id=com.bimiboo.runner&hl=ru&pli=1" target="_blank">
+    <img src="https://play.google.com" width="180" alt="Скачать" />
+  </a>
+</p>
