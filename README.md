@@ -22,8 +22,16 @@
 
 ### Машинки - игры для детей 1-5
 
-<p align="left">
-  <a href="https://play.google.com/store/apps/details?id=com.bimiboo.runner&hl=ru&pli=1" target="_blank">
-    <img src="https://play.google.com" width="180" alt="Скачать" />
-  </a>
-</p>
+[Игра в Google Play](https://play.google.com/store/apps/details?id=com.bimiboo.runner&hl=ru&pli=1)
+
+<details>
+  <summary>Crhbyijns c Google Play</summary>
+  <br />
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/2718ab01-a860-436e-a770-bb1c138c0839" width="32%" />
+    <img src="https://github.com/user-attachments/assets/4a6c87ec-1617-4665-b07d-7f426bd0793f" width="32%" />
+    <img src="https://github.com/user-attachments/assets/ce821f0d-52e0-4551-814d-d9dc5dfd68ab" width="32%" />
+    <img src="https://github.com/user-attachments/assets/40fd61b5-cb11-4df6-8cd4-944326e12a69" width="32%" />
+    <img src="https://github.com/user-attachments/assets/8de95c03-2cce-41b2-92a3-3e58ecb55dec" width="32%" />
+  </p>
+</details>
