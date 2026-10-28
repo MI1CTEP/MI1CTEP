@@ -18,7 +18,10 @@
 * Запрограммировал плавную систему смены цикла дня и ночи с динамическим пересчетом глобального освещения.
 
 [Телеграмм канал по этому проетку](https://t.me/mineOnTheUnity)
+
 [YouTube канал по этому проетку](https://youtube.com/channel/UCgk9e5dQXb9TwmTqykPlaQA?si=glhuk6fXglVlAx-x)
+
+[Репозиторий игры](https://github.com/MI1CTEP/minecraft)
 
 ---
 
