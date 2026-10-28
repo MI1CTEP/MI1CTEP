@@ -117,3 +117,21 @@ https://github.com/user-attachments/assets/2849c85b-2c1a-474d-841e-a19a680ba583
 
   </p>
 </details>
+
+### 3. Lego puzzle
+
+* Адаптировал игру под вертикальный формат, для этого пришлось разобраться в style.css. Я даже выпустил статью на DTF, чтобы другие разработчики не мучались. https://dtf.ru/indie/3131164-vertikalnaya-orientaciya-igry-unity-yandeks-igry
+* Интегрировал SDK яндекса, система сохранений, таблица лидеров, межстраничная реклама и реклама за вознаграждение
+* Оптимизировал игру под WebGL
+
+[Репозиторий игры](https://github.com/MI1CTEP/legoPuzzle)
+
+<details>
+  <summary>Видео геймплея</summary>
+  <br />
+  <p align="center">  
+    
+https://github.com/user-attachments/assets/8bfa339a-9b32-4c3b-b473-ca6b5f8b68e0
+
+  </p>
+</details>
