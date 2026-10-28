@@ -170,3 +170,37 @@ https://github.com/user-attachments/assets/bb703dd5-50ac-46b1-aaed-5d06a567c315
 
   </p>
 </details>
+
+### 6. Minecraft clicker
+
+* Интегрировал SDK яндекса, система сохранений, таблица лидеров, межстраничная реклама и реклама за вознаграждение
+* Оптимизировал игру под WebGL
+
+[Репозиторий игры](https://github.com/MI1CTEP/minecraft_clicker)
+
+<details>
+  <summary>Видео геймплея</summary>
+  <br />
+  <p align="center">  
+    
+https://github.com/user-attachments/assets/8ac575d2-e4b9-4728-a8b3-9a24a11c7342
+
+  </p>
+</details>
+
+### 7. АвтоЛут
+
+* Интегрировал SDK яндекса, система сохранений, таблица лидеров, межстраничная реклама и реклама за вознаграждение
+* Оптимизировал игру под WebGL
+
+[Репозиторий игры](https://github.com/MI1CTEP/cars)
+
+<details>
+  <summary>Видео геймплея</summary>
+  <br />
+  <p align="center">  
+    
+https://github.com/user-attachments/assets/c62dd619-8001-4081-a789-791145ef88c9
+
+  </p>
+</details>
