@@ -204,3 +204,20 @@ https://github.com/user-attachments/assets/c62dd619-8001-4081-a789-791145ef88c9
 
   </p>
 </details>
+
+### 8. Puzzles
+
+* Интегрировал SDK яндекса, система сохранений, таблица лидеров, межстраничная реклама и реклама за вознаграждение
+* Оптимизировал игру под WebGL
+
+[Репозиторий игры](https://github.com/MI1CTEP/cars)
+
+<details>
+  <summary>Видео геймплея</summary>
+  <br />
+  <p align="center">  
+    
+https://github.com/user-attachments/assets/eab0a1e4-4bba-4425-b77e-937de63ddf5c
+
+  </p>
+</details>
