@@ -24,7 +24,7 @@
 [Репозиторий игры](https://github.com/MI1CTEP/minecraft)
 
 <details>
-  <summary>Скриншоты с Google Play</summary>
+  <summary>Скриншоты</summary>
   <br />
   <p align="center">
     <img src="https://github.com/user-attachments/assets/db889d4c-de47-4ffe-be57-b7f4e8425139" width="32%" />
