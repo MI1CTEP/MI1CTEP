@@ -210,7 +210,7 @@ https://github.com/user-attachments/assets/c62dd619-8001-4081-a789-791145ef88c9
 * Интегрировал SDK яндекса, система сохранений, таблица лидеров, межстраничная реклама и реклама за вознаграждение
 * Оптимизировал игру под WebGL
 
-[Репозиторий игры](https://github.com/MI1CTEP/cars)
+[Репозиторий игры](https://github.com/MI1CTEP/my_puzzles)
 
 <details>
   <summary>Видео геймплея</summary>
