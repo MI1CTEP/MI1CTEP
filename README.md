@@ -23,6 +23,19 @@
 
 [Репозиторий игры](https://github.com/MI1CTEP/minecraft)
 
+<details>
+  <summary>Скриншоты с Google Play</summary>
+  <br />
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/db889d4c-de47-4ffe-be57-b7f4e8425139" width="32%" />
+    <img src="https://github.com/user-attachments/assets/95f780a7-36e7-4a95-8c1f-346035818bf9" width="32%" />
+    <img src="https://github.com/user-attachments/assets/a33aa761-530a-4c9c-90ef-8a43f095bb31" width="32%" />
+    <img src="https://github.com/user-attachments/assets/2225d5d2-04d6-4f60-b283-15cdec905fad" width="32%" />
+    <img src="https://github.com/user-attachments/assets/3b7ddf66-3628-45b7-9351-9f5b203dbd6b" width="32%" />
+    <img src="https://github.com/user-attachments/assets/867632f1-b3cc-4364-abd8-68d5b4660723" width="32%" />
+  </p>
+</details>
+
 ---
 
 ## Первые шаги в разработке игр. Google Play (10.2020 - 02.2022)
