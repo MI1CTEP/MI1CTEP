@@ -79,7 +79,9 @@
 * Практический опыт проектирования систем подгрузки ресурсов через AssetBundle.
 * Уверенное владение системами контроля версий (Git) и ведение тасков в таск-трекере Jira в рамках командной работы.
 
-## Работа на себя в Яндекс.Игры (09.2024 - середину 2025)
+---
+
+## Работа на себя в Яндекс.Игры (09.2024 - середина 2025)
 
 ### 1. Colored columns
 
@@ -298,6 +300,47 @@ https://github.com/user-attachments/assets/c62dd619-8001-4081-a789-791145ef88c9
   <p align="center">  
     
 https://github.com/user-attachments/assets/eab0a1e4-4bba-4425-b77e-937de63ddf5c
+
+  </p>
+</details>
+
+---
+
+## Работа на себя в Nutaku(игры 18+) (середина 2025 - настоящее время)
+
+### 1. Sweet Stories Puzzles
+
+* Разрабатывали в команде из 4 человек. Я отвечал за архитектуру и визуал.
+
+[Игра на Nutaku](https://www.nutaku.net/games/sweet-stories-puzzles/)
+
+### 2. The Secret Collection
+
+* Разрабатывал в команде из 4 человек. Я отвечал за архитектуру, визуал, геймдизан, баланс. 
+
+[Игра на Nutaku](https://www.nutaku.net/games/the-secret-collection/)
+
+### 3. Comixex
+
+* Игра находится в процессе разработки
+
+<details>
+  <summary>Скриншоты</summary>
+  <br />
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/86a8ddd7-fe9b-4e8a-af95-83d5f73ef821" width="24%" />
+    <img src="https://github.com/user-attachments/assets/732bca4d-ebe6-4294-aaa9-48e44f8d7a24" width="24%" />
+    <img src="https://github.com/user-attachments/assets/70d89194-8afd-4aa5-8f3f-b3d7cc0d65c3" width="24%" />
+    <img src="https://github.com/user-attachments/assets/8d07e69b-307b-4ac3-b2ef-f4e411011f22" width="24%" />
+  </p>
+</details>
+
+<details>
+  <summary>Видео геймплея</summary>
+  <br />
+  <p align="center">  
+    
+https://github.com/user-attachments/assets/fd703ba0-4036-45e3-bb5f-d79ba2b1ddf9
 
   </p>
 </details>
