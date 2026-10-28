@@ -213,6 +213,16 @@ https://github.com/user-attachments/assets/c62dd619-8001-4081-a789-791145ef88c9
 [Репозиторий игры](https://github.com/MI1CTEP/my_puzzles)
 
 <details>
+  <summary>Скриншоты</summary>
+  <br />
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/5c28894b-2ca0-4ba6-b747-e298d9a0f846" width="32%" />
+    <img src="https://github.com/user-attachments/assets/9b65881a-1fbc-48f8-9b64-47aa53f37ea2" width="32%" />
+    <img src="https://github.com/user-attachments/assets/af1d0cdf-7a97-4651-86ff-359d06c70ad9" width="32%" />
+  </p>
+</details>
+
+<details>
   <summary>Видео геймплея</summary>
   <br />
   <p align="center">  
