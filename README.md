@@ -38,3 +38,23 @@
     <img src="https://github.com/user-attachments/assets/8de95c03-2cce-41b2-92a3-3e58ecb55dec" width="32%" />
   </p>
 </details>
+
+### 2. Игры для детей от 3-х лет
+
+* **Портирование и разработка с нуля:** Успешно перенёс проект на движок Untiy c другого движка. В паре со вторым разработчиком полностью воссоздал игру с нуля, отвечая за проектирование и реализацию ключевых геймплейных механик и архитектурную базу.
+* **Поддержка:** Занимался долгосрочным развитием проекта, интеграцией новых фич, обновлением контента и оптимизацией производительности после релиза.
+
+[Игра в Google Play](https://play.google.com/store/apps/details?id=com.bimiboo.kids.preschool.games)
+
+<details>
+  <summary>Скриншоты с Google Play</summary>
+  <br />
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/f12e7273-fdf3-45b7-bb3f-a562bf584598" width="32% />
+    <img src="https://github.com/user-attachments/assets/c148eb8a-c89a-4a7f-915e-55641b1d323d" width="32% />
+    <img src="https://github.com/user-attachments/assets/68de5cbd-4da9-481c-a839-4cc9b6c4cc9e" width="32% />
+    <img src="https://github.com/user-attachments/assets/2adbf254-5590-4b95-a7e9-4dd5d42f987e" width="32% />
+    <img src="https://github.com/user-attachments/assets/6de983e4-2c27-4f27-ae95-8e3af8f171db" width="32% />
+    <img src="https://github.com/user-attachments/assets/80041b4c-97fa-45dc-ae7f-e39014494b13" width="32% />
+  </p>
+</details>
