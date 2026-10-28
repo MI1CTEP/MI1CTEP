@@ -90,6 +90,16 @@
 [Репозиторий игры](https://github.com/MI1CTEP/colored_columns)
 
 <details>
+  <summary>Скриншоты</summary>
+  <br />
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/7f379d7c-e33f-46a4-944b-bf100ab809f0" width="32%" />
+    <img src="https://github.com/user-attachments/assets/230cb7d3-dab7-4e8d-84e6-6de4d85690f0" width="32%" />
+    <img src="https://github.com/user-attachments/assets/95732422-6520-462f-a932-328d116c66a0" width="32%" />
+  </p>
+</details>
+
+<details>
   <summary>Видео геймплея</summary>
   <br />
   <p align="center">  
@@ -107,6 +117,16 @@ https://github.com/user-attachments/assets/98c5c8d6-26e9-4c56-9c68-811b1f362e4b
 * Оптимизировал игру под WebGL
 
 [Репозиторий игры](https://github.com/MI1CTEP/cube_runner)
+
+<details>
+  <summary>Скриншоты</summary>
+  <br />
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/0b6db382-6767-425e-9187-0a30a9a1f6fe" width="32%" />
+    <img src="https://github.com/user-attachments/assets/f27117b6-6de4-459c-854c-e0dae3747361" width="32%" />
+    <img src="https://github.com/user-attachments/assets/3afb96ef-6b18-4cc3-86ea-084f9f108b4a" width="32%" />
+  </p>
+</details>
 
 <details>
   <summary>Видео геймплея</summary>
@@ -128,6 +148,16 @@ https://github.com/user-attachments/assets/2849c85b-2c1a-474d-841e-a19a680ba583
 [Репозиторий игры](https://github.com/MI1CTEP/legoPuzzle)
 
 <details>
+  <summary>Скриншоты</summary>
+  <br />
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/3714214b-8c91-44d1-a14c-005dc9f52a94" width="32%" />
+    <img src="https://github.com/user-attachments/assets/2c2714e3-913d-4436-92fb-9d3945b9ec30" width="32%" />
+    <img src="https://github.com/user-attachments/assets/2a294c21-b842-4cc8-a015-02d5816d9615" width="32%" />
+  </p>
+</details>
+
+<details>
   <summary>Видео геймплея</summary>
   <br />
   <p align="center">  
@@ -143,6 +173,16 @@ https://github.com/user-attachments/assets/8bfa339a-9b32-4c3b-b473-ca6b5f8b68e0
 * Оптимизировал игру под WebGL
 
 [Репозиторий игры](https://github.com/MI1CTEP/block_destroy)
+
+<details>
+  <summary>Скриншоты</summary>
+  <br />
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/4a2c99c2-1ef9-4068-9a26-3020f2422621" width="32%" />
+    <img src="https://github.com/user-attachments/assets/dad81219-3bbd-49d8-bbd7-c8fbfccbce88" width="32%" />
+    <img src="https://github.com/user-attachments/assets/b662b575-577a-4494-b4ee-1995b9410d1b" width="32%" />
+  </p>
+</details>
 
 <details>
   <summary>Видео геймплея</summary>
@@ -162,6 +202,16 @@ https://github.com/user-attachments/assets/1fd79ef8-4ea8-4f9c-bca6-9267d1287745
 [Репозиторий игры](https://github.com/MI1CTEP/blockBuild)
 
 <details>
+  <summary>Скриншоты</summary>
+  <br />
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/804825c4-0b7a-46b7-b108-ff54a970b21f" width="32%" />
+    <img src="https://github.com/user-attachments/assets/d71e7da9-d1ad-4c17-9155-834e27619e46" width="32%" />
+    <img src="https://github.com/user-attachments/assets/7b801e6b-b0d0-43a6-866c-9fc2fc8121d2" width="32%" />
+  </p>
+</details>
+
+<details>
   <summary>Видео геймплея</summary>
   <br />
   <p align="center">  
@@ -179,6 +229,16 @@ https://github.com/user-attachments/assets/bb703dd5-50ac-46b1-aaed-5d06a567c315
 [Репозиторий игры](https://github.com/MI1CTEP/minecraft_clicker)
 
 <details>
+  <summary>Скриншоты</summary>
+  <br />
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/e6b28f78-29f7-4122-96a0-71a1d1f4ba95" width="32%" />
+    <img src="https://github.com/user-attachments/assets/ef94b0f4-95da-4955-b9ff-e589f936eccc" width="32%" />
+    <img src="https://github.com/user-attachments/assets/4a439844-b822-453b-9ef2-f046f2b7b1cf" width="32%" />
+  </p>
+</details>
+
+<details>
   <summary>Видео геймплея</summary>
   <br />
   <p align="center">  
@@ -194,6 +254,16 @@ https://github.com/user-attachments/assets/8ac575d2-e4b9-4728-a8b3-9a24a11c7342
 * Оптимизировал игру под WebGL
 
 [Репозиторий игры](https://github.com/MI1CTEP/cars)
+
+<details>
+  <summary>Скриншоты</summary>
+  <br />
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/979cefda-945f-4f10-8204-a705cf2e63c0" width="32%" />
+    <img src="https://github.com/user-attachments/assets/de03b3b6-9b29-41e4-89e4-bb5c18da61a2" width="32%" />
+    <img src="https://github.com/user-attachments/assets/161c9c4f-00fe-4987-ad37-92abd484ee85" width="32%" />
+  </p>
+</details>
 
 <details>
   <summary>Видео геймплея</summary>
