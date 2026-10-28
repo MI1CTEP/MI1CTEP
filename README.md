@@ -153,3 +153,20 @@ https://github.com/user-attachments/assets/1fd79ef8-4ea8-4f9c-bca6-9267d1287745
 
   </p>
 </details>
+
+### 5. Block build
+
+* Интегрировал SDK яндекса, система сохранений, таблица лидеров, межстраничная реклама и реклама за вознаграждение
+* Оптимизировал игру под WebGL
+
+[Репозиторий игры](https://github.com/MI1CTEP/blockBuild)
+
+<details>
+  <summary>Видео геймплея</summary>
+  <br />
+  <p align="center">  
+    
+https://github.com/user-attachments/assets/bb703dd5-50ac-46b1-aaed-5d06a567c315
+
+  </p>
+</details>
